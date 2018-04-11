@@ -40,12 +40,12 @@ public class Main {
             boolean x = xChecker(blocks);
             boolean o = oChecker(blocks);
             if (x == true) {
-                System.out.println("X wins");
+                System.out.println("X Wins.");
                 i = blocks.size() - 1;
 
             }
             if (o == true) {
-                System.out.println("X wins");
+                System.out.println("O Wins.");
                 i = blocks.size() - 1;
 
             }
