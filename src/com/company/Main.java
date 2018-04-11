@@ -27,7 +27,7 @@ public class Main {
 
         int i = 0;
         while (i < blocks.size() - 1) {
-            System.out.print("Please enter X or O: ");
+            System.out.print("Please choose X or O: ");
             String charinput = "[ " + userInput.nextLine() + " ]";
             System.out.print("Please choose block: ");
             int intinput = userInput.nextInt();
