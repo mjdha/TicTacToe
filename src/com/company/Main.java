@@ -7,16 +7,16 @@ public class Main {
 
     public static void main(String[] args) {
         ArrayList<String> blocks = new ArrayList<>();
-        blocks.add("[  ]");
-        blocks.add("[  ]");
-        blocks.add("[  ]");
-        blocks.add("[  ]");
-        blocks.add("[  ]");
-        blocks.add("[  ]");
-        blocks.add("[  ]");
-        blocks.add("[  ]");
-        blocks.add("[  ]");
-        blocks.add("[  ]");
+        blocks.add("[   ]");
+        blocks.add("[   ]");
+        blocks.add("[   ]");
+        blocks.add("[   ]");
+        blocks.add("[   ]");
+        blocks.add("[   ]");
+        blocks.add("[   ]");
+        blocks.add("[   ]");
+        blocks.add("[   ]");
+        blocks.add("[   ]");
         usersInput(blocks);
         System.out.println("Game Over.");
 
