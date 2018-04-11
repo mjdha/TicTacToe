@@ -18,7 +18,7 @@ public class Main {
         blocks.add("[   ]");
         blocks.add("[   ]");
         usersInput(blocks);
-        System.out.println("Game Over.");
+        System.out.println("Game Over. Thanks for playing :)");
 
     }
 
