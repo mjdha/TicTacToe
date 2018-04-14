@@ -24,7 +24,7 @@ public class Main {
             Scanner input = new Scanner(System.in);
             String playAgain = "";
             while (!playAgain.equalsIgnoreCase("yes") && !playAgain.equalsIgnoreCase("no")) {
-                System.out.println("please Enter Yes or No: ");
+                System.out.println("Would you like to play again? \nplease Enter Yes or No: ");
                 playAgain = input.nextLine();
             }
             if (playAgain.equalsIgnoreCase("no")) {
